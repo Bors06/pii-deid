@@ -1,0 +1,31 @@
+row_id,text,pii
+1,"thanks jordan, that fixed it",jordan
+2,"Ask Professor Watson about the deadline",Watson
+3,"my roommate Ahmet Yilmaz helped me debug",Ahmet Yilmaz
+4,"# author: wei zhang",wei zhang
+5,"// written by Siobhan O'Connor for lab 4",Siobhan O'Connor
+6,"Nguyen Van Minh and I worked on this together",Nguyen Van Minh
+7,"hey @priya can you check my loop?",priya
+8,"Dr. Chen said recursion is on the midterm",Chen
+9,"i asked marcus and he said use a dict",marcus
+10,"Credit to Fatima Al-Sayed for the hint",Fatima Al-Sayed
+11,"print(""Hello, my name is Diego Ramirez"")",Diego Ramirez
+12,"TA Grace Kim says late submissions lose 10%",Grace Kim
+13,"thx sam!! works now",sam
+14,"Co-authored-by: Hiroshi Tanaka",Hiroshi Tanaka
+15,"my partner was olivia but she dropped the class",olivia
+16,"for user in users: print(user.name, user.email)",
+17,"Will this work? Mark the task as done",
+18,"Use Dijkstra's algorithm for shortest paths",
+19,"Bayes' theorem gives the posterior",
+20,"The Jordan curve theorem is not on the exam",
+21,"class Person: def __init__(self, name): self.name = name",
+22,"student = Student(name="""", age=0)",
+23,"import pandas as pd; df = pd.read_csv(""grades.csv"")",
+24,"Grace period for submissions ends Friday",
+25,"Apple and Google both use Python",
+26,"author = input(""Enter author name: "")",
+27,"def get_owner(repo): return repo.owner.login",
+28,"Is the Turing machine on the final?",
+29,"Error: Cannot read property 'name' of undefined",
+30,"The Fibonacci sequence starts 0, 1, 1, 2",

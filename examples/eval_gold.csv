@@ -1,0 +1,20 @@
+row_id,text,pii
+1,"thanks jordan, that fixed it",jordan
+2,"my netid is praghuna if you need it",praghuna
+3,"call me at 949-555-0192 after 5pm",949-555-0192
+4,"my github is github.com/jnakamura-dev",jnakamura-dev
+5,"I'm the only transfer student from Izmir in section B",Izmir
+6,"jordy said nakamuraSolution() is faster",jordy|nakamura
+7,"I live at 123 Main St, Irvine, come by anytime",123 Main St
+8,"Priya Raghunathan and I paired on this",Priya Raghunathan
+9,"Ask Professor Watson about the deadline",Watson
+10,"email me at tkwan5@uci.edu if it breaks",tkwan5
+11,"tkwan5_lab2.py crashes on input 3",tkwan5
+12,"my student ID is 51902264",51902264
+13,"# author: jordan nakamura",jordan|nakamura
+14,"def dijkstra(graph, start): return shortest_paths(graph, start)",
+15,"for user in users: print(user.name, user.email)",
+16,"How do I reverse a linked list in place?",
+17,"import numpy as np; arr = np.zeros(10)",
+18,"Error at line 42: IndexError: list index out of range",
+19,"timestamp = 20261001  # parse this date",

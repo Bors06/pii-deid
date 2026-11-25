@@ -1,0 +1,17 @@
+# Core pipeline
+presidio-analyzer
+presidio-anonymizer
+wordfreq
+requests
+# then: python -m spacy download en_core_web_lg
+
+# Tests
+pytest
+
+# Optional: GLiNER name model (--ner gliner). Large install (PyTorch, ~1.2 GB model).
+# gliner
+# sentencepiece
+# protobuf
+
+# Optional: local LLM pass (--llm) needs Ollama (https://ollama.com), then:
+#   ollama pull llama3.2:3b

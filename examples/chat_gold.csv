@@ -1,0 +1,68 @@
+row_id,text,pii
+1,"how do i fix this error? TypeError: 'NoneType' object is not subscriptable",
+2,"why is my for loop only running once",
+3,"def find_max(nums):
+    m = 0
+    for n in nums:
+        if n > m:
+            m = n
+    return m
+this returns 0 for negative lists, why?",
+4,"can you explain big O notation in simple terms",
+5,"thanks that worked!!",
+6,"what's the difference between a list and a tuple in python",
+7,"Traceback (most recent call last):
+  File ""C:\Users\dpatel22\Downloads\lab3\main.py"", line 8, in <module>
+    total += x
+NameError: name 'total' is not defined",dpatel22
+8,"my professor Dr. Alvarez said we can't use built-in sort, how else can i do it",Alvarez
+9,"hi im maya, im stuck on question 2 of the lab",maya
+10,"ok can you check my code
+class Stack:
+    def __init__(self):
+        self.items = []
+    def push(self, item):
+        self.items.append(item)",
+11,"is recursion or iteration faster for fibonacci",
+12,"i emailed my TA at jkim@uci.edu but no response, how do i do part b",jkim@uci.edu
+13,"what does 'self' mean in python classes",
+14,"i keep getting IndexError: list index out of range on line 14",
+15,"can i ask about the homework due friday? the one about binary search",
+16,"my partner Tyler Brooks wrote the first half and i wrote the second, can you check if they fit together",Tyler Brooks
+17,"SELECT * FROM orders WHERE customer_id = 1023;
+why does this return nothing",
+18,"how do i read a csv file with pandas",
+19,"File ""/Users/sophia.nguyen/Desktop/proj/app.py"", line 3, in <module>
+    import flask
+ModuleNotFoundError: No module named 'flask'",sophia.nguyen
+20,"explain this to me like im 5: what is a pointer",
+21,"wait so is 'is' the same as '==' in python?",
+22,"im the only one in my section who uses a mac so the setup instructions dont work for me",
+23,"public class Main {
+    public static void main(String[] args) {
+        long sum = 0;
+        for (int i = 0; i < 10; i++) sum += i;
+        System.out.println(sum);
+    }
+}
+why does this print 45 not 55",
+24,"can you give me a hint without giving the answer",
+25,"my student id is 61234578 do you need it for anything",61234578
+26,"what's a good way to test my function",
+27,"I tried what you said but now it says SyntaxError: invalid syntax",
+28,"git push gives me 'permission denied (publickey)'",
+29,"text me if you can 714-555-0148 lol jk you're an AI",714-555-0148
+30,"how do I make a dictionary from two lists",
+31,"Will this approach work for the bonus question?",
+32,"I'm confused about Dijkstra's algorithm, can you walk me through it",
+33,"user_input = input('Enter your name: ')
+print('Hello ' + user_input)",
+34,"my github is github.com/carlos-mendez-dev if you want to see the whole repo",carlos-mendez-dev
+35,"is it ok to use ChatGPT for this class?",
+36,"def greet(name):
+    return f'Hello, {name}!'
+print(greet('Alice'))",
+37,"what is the difference between merge sort and quick sort",
+38,"Ms. Okafor told us to comment every function, is this enough?",Okafor
+39,"how do i center a div",
+40,"ok got it, thank you so much",

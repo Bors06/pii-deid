@@ -1,0 +1,10 @@
+# PRIVATE: real student data - never commit
+roster.csv
+student_map.csv
+data/
+output/
+
+# Environment / caches
+.venv/
+__pycache__/
+.pytest_cache/
